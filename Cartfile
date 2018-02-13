@@ -1,0 +1,6 @@
+# Alamofire for networking
+github "Alamofire/Alamofire" "alamofire5"
+
+# AlamofireImage for images
+github "Alamofire/AlamofireImage"
+
